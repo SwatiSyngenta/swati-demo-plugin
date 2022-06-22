@@ -1,0 +1,19 @@
+{
+  "name": "swati-counterfit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwatiSyngenta/swati-demo-plugin.git"
+  },
+  "author": "Swati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwatiSyngenta/swati-demo-plugin/issues"
+  },
+  "homepage": "https://github.com/SwatiSyngenta/swati-demo-plugin#readme"
+}
